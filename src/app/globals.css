@@ -1,0 +1,9 @@
+.nav-active {
+  font-weight: bold;
+  color: #90b80b;
+}
+
+.nav-inactive {
+  color: #125eb5;
+  font-weight: normal;
+}

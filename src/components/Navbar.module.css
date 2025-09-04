@@ -1,0 +1,9 @@
+.navActive a{
+  font-weight: bold;
+  color: #90b80b;
+}
+
+.navInactive a{
+  color: #b5126e;
+  font-weight: normal;
+}
