@@ -5,7 +5,9 @@ const page = () => {
   return (
     <>
       <div>page</div>
-      <Link href="/articles/">Read in English</Link>
+      <Link href="/articles/article-123?lang=en">Read in English</Link>
+      <Link href="/articles/article-123?lang=kr">Read in Korea</Link>
+      <Link href="/articles/article-123?lang=jp">Read in Japan</Link>
     </>
   )
 }
